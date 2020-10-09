@@ -1,2 +1,13 @@
-clear_print_queue = stop print services and deletes all contents in the print queue directory for windows
-shortcut_builder = allow you to create shortucts to URL's which default to a browser of your choice
+
+A collection of various/usefully applications:
+
+
+clear_print_queue-
+Stop print services and deletes all contents in the print queue directory for windows (C:\Windows\System32\spool\PRINTERS). Note: this will require admin and will prompt for credentials
+
+Link - https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Windows/empty_print_queue.bat
+
+shortcut_builder-
+Allow's you to create shortucts to URL's of your choice with a predefined browser of your choice. ie; opening https://google.com with Firefox (when the default browser on the computer is Chrome).
+
+Link - https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Windows/shortcut_builder.bat
