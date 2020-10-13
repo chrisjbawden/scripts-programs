@@ -6,7 +6,7 @@ REM  --> Check for permissions
 
 REM --> If error flag set, we do not have admin.
 if '%errorlevel%' NEQ '0' (
-    echo Requesting a-dash credentials...
+    echo Requesting administrator credentials...
     goto UACPrompt
 ) else ( goto gotAdmin )
 
@@ -30,13 +30,13 @@ echo.
 net stop spooler
 timeout /t 1 > null
 del %systemroot%\System32\spool\printers\* /Q
-IF ERRORLEVEL 1 GOTO error_handling
+IF "ERRORLEVEL" NEQ 0 GOTO error_handling
 net start spooler
 cls
 echo -----------------------------------------
 echo.
 echo.
-echo Print queue for asset - %computername% has been cleared.
+echo Print queue cleared
 echo.
 echo.
 echo -----------------------------------------
