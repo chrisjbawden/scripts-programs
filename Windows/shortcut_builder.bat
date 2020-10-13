@@ -1,10 +1,13 @@
 @echo off
 TITLE Shortcut Builder Tool - By Chris Bawden V1.1
 
-REM creat working location
+REM -------------------   defining a work directory
+
 set tempfilename=%TEMP%\%RANDOM%_%RANDOM%.txt
 echo . > %tempfilename%
 
+
+REM -------------------   prompting user to chose a browser
 
 :browser
 ECHO.
@@ -37,13 +40,8 @@ IF ERRORLEVEL 3 set browser="C:\Program Files (x86)\Google\Chrome\Application\ch
 IF ERRORLEVEL 2 set browser="C:\Program Files\Mozilla Firefox\firefox.exe" && goto name
 IF ERRORLEVEL 1 set browser="C:\Program Files\Internet Explorer\iexplore.exe" && goto name
 
-:name_in_use
-cls
-echo.
-echo.
-echo Name already in use...Please chose a different name.
-timeout /nobreak /t 2 >nul
-goto name
+
+REM ----------------------- prompting the user for the name of the shortcut
 
 :name
 timeout /t 1 /nobreak >nul
@@ -57,6 +55,16 @@ timeout /nobreak /t 1 >nul
 IF EXIST "C:\users\%username%\Desktop\%name%.lnk" (goto name_in_use)
 goto url
 
+:name_in_use
+cls
+echo.
+echo.
+echo Name already in use...Please chose a different name.
+timeout /nobreak /t 2 >nul
+goto name
+
+REM ------------------------- prompting the user for the URL
+
 :url
 cls
 ECHO.
@@ -69,6 +77,8 @@ ECHO.
 set /p URL=enter URL of shortcut: 
 goto createshortcut
 
+
+REM ---------------------- powershell script to create shortcut from the information gathered
 
 :createshortcut
 del %tempfilename%
@@ -85,6 +95,10 @@ goto exit
 
 
 
+
+
+REM ----------------------- success notification and closure/exit
+
 :completion
 cls
 ECHO.
@@ -93,6 +107,12 @@ ECHO.
 echo. Shortcut created and stored on desktop. Press any key to exit.
 timeout 5 > nul
 goto exit
+
+
+
+
+
+
 
 
 :exit
