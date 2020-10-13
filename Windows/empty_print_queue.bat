@@ -30,7 +30,9 @@ echo.
 net stop spooler
 timeout /t 1 > null
 del %systemroot%\System32\spool\printers\* /Q
-IF "ERRORLEVEL" NEQ 0 GOTO error_handling
+IF "%ERRORLEVEL%" NEQ 0 (
+GOTO error_handling
+) else (
 net start spooler
 cls
 echo -----------------------------------------
@@ -42,6 +44,7 @@ echo.
 echo -----------------------------------------
 timeout /t 5 >nul
 goto exit
+)
 
 
 
