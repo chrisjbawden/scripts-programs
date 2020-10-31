@@ -14,7 +14,7 @@ Stop's the print services and deletes all contents in the local print queue dire
 Note: this will require admin credentials and will prompt for credentials.
 </br>
 </br>
-<p align="right"><a href="https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Windows/shortcut_builder.bat">Download</a></p>
+<p align="right"><a href="download-directory.github.io ?url=https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Windows/shortcut_builder.bat">Download</a></p>
 </br>
 -----------------------------------------
 </br>
@@ -23,6 +23,6 @@ Note: this will require admin credentials and will prompt for credentials.
 Allow's you to create shortucts to URL's of your choice with a predefined browser of your choice. ie; opening [website URL] with Firefox when the default browser on the computer is Chrome.
 </br>
 </br>
-<p align="right"><a href="https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Windows/shortcut_builder.bat">Download</a></p>
+<p align="right"><a href="download-directory.github.io ?url=https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Windows/shortcut_builder.bat">Download</a></p>
 
 -----------------------------------------
