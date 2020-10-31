@@ -14,7 +14,7 @@ Stop's the print services and deletes all contents in the local print queue dire
 Note: this will require admin credentials and will prompt for credentials.
 </br>
 </br>
-<p align="right">Link - https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Windows/empty_print_queue.bat</p>
+<p align="right"><a href="https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Windows/shortcut_builder.bat">Download</a></p>
 </br>
 -----------------------------------------
 </br>
