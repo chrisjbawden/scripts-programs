@@ -48,7 +48,7 @@ goto exit
 
 
 
-:erro_handling
+:error_handling
 echo Soemthing went wrong. You may need to reboot the computer to clear print queue.
 timeout /t 5
 goto exit
