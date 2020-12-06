@@ -12,7 +12,7 @@
 </br>
 <table>
   <tr>
-    <th>
+    <th style="text-align:center;">
 Stop's the print services and deletes all contents in the local print queue directory for windows (C:\Windows\System32\spool\PRINTERS). 
 Note: this will require admin credentials and will prompt for credentials.
   </ht>
