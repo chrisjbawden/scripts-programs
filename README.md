@@ -1,14 +1,10 @@
 
 -----------------------------------------
 -----------------------------------------
-</br>
-</br>
-</br>
-
 
 
 </br>
-<h3> clear_print_queue.bat</h3>
+<h3 style="text-align:center;"> clear_print_queue.bat</h3>
 </br>
 <table>
   <tr>
