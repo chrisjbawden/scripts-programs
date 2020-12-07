@@ -6,8 +6,8 @@
   <tr>
     <th align=justify width=85% >
       <h4> clear_print_queue.bat</h4>
-Stop's the print services and deletes all contents in the local print queue directory for windows (C:\Windows\System32\spool\PRINTERS). 
-Note: this will require admin credentials and will prompt for credentials.
+<p>Stop's the print services and deletes all contents in the local print queue directory for windows (C:\Windows\System32\spool\PRINTERS). 
+  Note: this will require admin credentials and will prompt for credentials.</p>
   </th>
   <th>
 </br>
