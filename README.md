@@ -2,7 +2,7 @@
 </br>
 
 </br>
-<table width=100%>
+<table width=100% border="0" cellpadding="0" cellspacing="0">
   <tr>
     <th align=justify width=90% >
       <h4> clear_print_queue.bat</h4>
@@ -16,11 +16,7 @@
 </br>
 </th>
 </tr>
-</table>
 
-
-</br>
-<table>
                                         <tr>
                                         <th align=justify width=90% border="0">
                                           <h4>shortcut_builder.bat</h4>
