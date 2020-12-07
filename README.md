@@ -1,14 +1,10 @@
 
------------------------------------------
------------------------------------------
-
-
 </br>
-<h4 style="text-align:left;"> clear_print_queue.bat</h4>
+<h4> clear_print_queue.bat</h4>
 </br>
 <table style="border: none; width:100%;">
   <tr>
-    <th style="text-align:left;">
+    <th style="text-align:left; width:80%;">
 Stop's the print services and deletes all contents in the local print queue directory for windows (C:\Windows\System32\spool\PRINTERS). 
 Note: this will require admin credentials and will prompt for credentials.
   </th>
@@ -21,7 +17,7 @@ Note: this will require admin credentials and will prompt for credentials.
 </tr>
 </table>
 
-<bold>shortcut_builder.bat</bold>
+<h4>shortcut_builder.bat</h4>
 </br>
 <table style="border: none; width:100%;">
                                         <tr>
@@ -35,6 +31,7 @@ Allow's you to create shortucts to URL's of your choice with a predefined browse
 </table>
 
 -----------------------------------------
+<br>
 
-<p style="text-align:center;">----- TERMS ----- </p>
-<p style="text-align:center;">The maker of these wares can't be held liable in any way for any reason.</p>
+<p style="text-align: center;">----- TERMS ----- </p>
+<p style="text-align: center;">The maker of these wares can't be held liable in any way for any reason.</p>
