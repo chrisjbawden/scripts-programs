@@ -15,8 +15,10 @@
 <p style="text-align:right;"><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chrisjbawden/scripts-programs/blob/master/Windows/empty_print_queue.bat">Download</a></p>
 </br>
 </th>
-                                        <th align=justify width=90% border="0">
-                                          <h4>shortcut_builder.bat</h4>
+</tr>
+<tr>
+<th align=justify width=90%>
+<h4>shortcut_builder.bat</h4>
 <p>Allow's you to create shortucts to URL's of your choice with a predefined browser of your choice. ie; opening [website URL] with Firefox when the default browser on the computer is Chrome.</p>
                                         </th>
 <th>
