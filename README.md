@@ -33,7 +33,7 @@
   </td>
   <td>
     <br>
-    <p><a href="https://github.com/chrisjbawden/pdfmerger" align="center" target="blank">LINK</a></p>
+    <p align="center"><a href="https://github.com/chrisjbawden/pdfmerger" target="blank">LINK</a></p>
   </td>
 </tr>
 </table>
