@@ -20,9 +20,9 @@
 
 
 </br>
-<table border="0">
+<table>
                                         <tr>
-                                        <th align=justify width=90%>
+                                        <th align=justify width=90% border="0">
                                           <h4>shortcut_builder.bat</h4>
 <p>Allow's you to create shortucts to URL's of your choice with a predefined browser of your choice. ie; opening [website URL] with Firefox when the default browser on the computer is Chrome.</p>
                                         </th>
@@ -34,8 +34,8 @@
 </table>
 
 <hr>
-<div align=center>
----- FAQ -----
+<div align=left>
+  <p align=center>---- FAQ -----</p>
   <h4>Why are they batch(.bat) files?</h4>
   Transparency, flexibility, adaptability - take your pick
 
