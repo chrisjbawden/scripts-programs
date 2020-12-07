@@ -33,7 +33,7 @@
 </tr>
 </table>
 
------------------------------------------
+<hr>
 <div align=center>
 ---- FAQ -----
   <h4>Why are they batch(.bat) files?</h4>
@@ -41,7 +41,7 @@
 
 </div>
 <br>
------------------------------------------
+<hr>
 <div align=center ">
    ----- TERMS -----
   </br>
