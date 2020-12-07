@@ -21,10 +21,12 @@ Note: this will require admin credentials and will prompt for credentials.
 </br>
 <table style="border: none; width:100%;">
                                         <tr>
-                                        <th style="text-align:left; width:80%;">
+                                        <th style="text-align: left; width:80%;">
 Allow's you to create shortucts to URL's of your choice with a predefined browser of your choice. ie; opening [website URL] with Firefox when the default browser on the computer is Chrome.
                                         </th>
 <th style="text-align:right;">
+  <br>
+  <br>
 <p align="right"><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chrisjbawden/scripts-programs/blob/master/Windows/shortcut_builder.bat">Download</a></p>
 </th>
 </tr>
@@ -32,6 +34,7 @@ Allow's you to create shortucts to URL's of your choice with a predefined browse
 
 -----------------------------------------
 <br>
-
-<p style="text-align: center;">----- TERMS ----- </p>
-<p style="text-align: center;">The maker of these wares can't be held liable in any way for any reason.</p>
+<div style="text-align: center;">
+   <p>----- TERMS ----- </p>
+   <p>The maker of these wares can't be held liable in any way for any reason.</p>
+</div>
