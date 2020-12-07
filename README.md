@@ -26,6 +26,16 @@
 <p><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chrisjbawden/scripts-programs/blob/master/Windows/shortcut_builder.bat">Download</a></p>
 </td>
 </tr>
+<tr>
+  <td>
+   <h4>PDF Merger.exe<h4>
+     <br>
+     <p>A simple, portal PDF merger.</p>
+  </td>
+  <td>
+    <a href="https://github.com/chrisjbawden/pdfmerger" target="blank">LINK</a>
+  </td>
+</tr>
 </table>
 
 <hr>
