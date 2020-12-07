@@ -28,12 +28,11 @@
 </tr>
 <tr>
   <td>
-   <h4>PDF Merger.exe<h4>
-     <br>
+   <h4>PDF Merger.exe</h4>
      <p>A simple, portal PDF merger.</p>
   </td>
   <td>
-    <a href="https://github.com/chrisjbawden/pdfmerger" target="blank">LINK</a>
+    <p><a href="https://github.com/chrisjbawden/pdfmerger" target="blank">LINK</a></p>
   </td>
 </tr>
 </table>
