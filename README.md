@@ -33,8 +33,8 @@ Allow's you to create shortucts to URL's of your choice with a predefined browse
 </table>
 
 -----------------------------------------
-<br>
 <div style="text-align: center; width:100%;">
    ----- TERMS -----
+  </br>
    The maker of these wares can't be held liable in any way for any reason.
 </div>
