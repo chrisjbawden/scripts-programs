@@ -11,7 +11,7 @@ Note: this will require admin credentials and will prompt for credentials.
   <th>
 </br>
 </br>
-<p align="right"><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chrisjbawden/scripts-programs/blob/master/Windows/empty_print_queue.bat">Download</a></p>
+<p style="text-align:right;"><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chrisjbawden/scripts-programs/blob/master/Windows/empty_print_queue.bat">Download</a></p>
 </br>
 </th>
 </tr>
@@ -26,8 +26,7 @@ Allow's you to create shortucts to URL's of your choice with a predefined browse
                                         </th>
 <th style="text-align:right;">
   <br>
-  <br>
-<p align="right"><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chrisjbawden/scripts-programs/blob/master/Windows/shortcut_builder.bat">Download</a></p>
+<p style="text-align:right;"><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chrisjbawden/scripts-programs/blob/master/Windows/shortcut_builder.bat">Download</a></p>
 </th>
 </tr>
 </table>
