@@ -32,6 +32,7 @@
      <p>A simple, portal PDF merger.</p>
   </td>
   <td>
+    <br>
     <p><a href="https://github.com/chrisjbawden/pdfmerger" target="blank">LINK</a></p>
   </td>
 </tr>
