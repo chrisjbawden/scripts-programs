@@ -2,9 +2,9 @@
 </br>
 
 </br>
-<table border="0" width=100%>
+<table width=100%>
   <tr>
-    <th align=justify width=85% >
+    <th align=justify width=90% >
       <h4> clear_print_queue.bat</h4>
 <p>Stop's the print services and deletes all contents in the local print queue directory for windows (C:\Windows\System32\spool\PRINTERS). 
   Note: this will require admin credentials and will prompt for credentials.</p>
@@ -40,6 +40,7 @@
   Transparency, flexibility, adaptability - take your pick
 
 </div>
+<br>
 -----------------------------------------
 <div align=center ">
    ----- TERMS -----
