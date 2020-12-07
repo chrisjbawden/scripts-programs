@@ -18,22 +18,30 @@
 </tr>
 </table>
 
-<h4>shortcut_builder.bat</h4>
+
 </br>
-<table style="border: none; width:100%;">
+<table border="0">
                                         <tr>
-                                        <th style="text-align: left; width:80%;">
-Allow's you to create shortucts to URL's of your choice with a predefined browser of your choice. ie; opening [website URL] with Firefox when the default browser on the computer is Chrome.
+                                        <th align=justify width=90%>
+                                          <h4>shortcut_builder.bat</h4>
+<p>Allow's you to create shortucts to URL's of your choice with a predefined browser of your choice. ie; opening [website URL] with Firefox when the default browser on the computer is Chrome.</p>
                                         </th>
-<th style="text-align:right;">
+<th>
   <br>
-<p style="text-align:right;"><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chrisjbawden/scripts-programs/blob/master/Windows/shortcut_builder.bat">Download</a></p>
+<p><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chrisjbawden/scripts-programs/blob/master/Windows/shortcut_builder.bat">Download</a></p>
 </th>
 </tr>
 </table>
 
 -----------------------------------------
-<div style="text-align: center; width:100%;">
+<div align=center>
+---- FAQ -----
+  <h4>Why are they batch(.bat) files?</h4>
+  Transparency, flexibility, adaptability - take your pick
+
+</div>
+-----------------------------------------
+<div align=center ">
    ----- TERMS -----
   </br>
    The maker of these wares can't be held liable in any way for any reason.
