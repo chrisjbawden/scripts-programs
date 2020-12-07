@@ -34,7 +34,7 @@ Allow's you to create shortucts to URL's of your choice with a predefined browse
 
 -----------------------------------------
 <br>
-<div style="text-align: center;">
-   <p>----- TERMS ----- </p>
-   <p>The maker of these wares can't be held liable in any way for any reason.</p>
+<div style="text-align: center; width:100%;">
+   ----- TERMS -----
+   The maker of these wares can't be held liable in any way for any reason.
 </div>
