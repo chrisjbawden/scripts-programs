@@ -12,7 +12,7 @@
   <td>
 </br>
 </br>
-<p style="text-align:right;"><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chrisjbawden/scripts-programs/blob/master/Windows/empty_print_queue.bat">Download</a></p>
+<p style="text-align:right;"><a href="https://chrisjbawden.github.io/scripts-programs/Windows/empty_print_queue.bat">DOWNLOAD</a></p>
 </br>
 </td>
 </tr>
@@ -23,7 +23,7 @@
                                         </th>
 <td>
   <br>
-<p><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chrisjbawden/scripts-programs/blob/master/Windows/shortcut_builder.bat">Download</a></p>
+<p><a href="https://chrisjbawden.github.io/scripts-programs/Windows/shortcut_builder.bat">DOWNLOAD</a></p>
 </td>
 </tr>
 <tr>
