@@ -37,6 +37,16 @@
     <p align="center"><a href="https://chrisjbawden.github.io/scripts-programs/Windows/(B)%20md5-checker/md5-checker.bat" target="blank">DOWNLOAD</a></p>
   </td>
 </tr>
+<tr>
+<td align=justify width=90%>
+<h4>wireless-scrubber.bat</h4>
+<p>Allow's you to remove your wireless configuration or all wireless configurations</p>
+                                        </th>
+<td>
+  <br>
+<p><a href="https://chrisjbawden.github.io/scripts-programs/Windows/(B)%20wireless-scrubber/wireless-scrubber.bat">DOWNLOAD</a></p>
+</td>
+</tr>
 </table>
 
 <hr>
