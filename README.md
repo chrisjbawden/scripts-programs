@@ -40,7 +40,7 @@
 <tr>
 <td align=justify width=90%>
 <h4>wireless-scrubber.bat</h4>
-<p>Allow's you to remove your wireless configuration or all wireless configurations</p>
+<p>Allow's you to quickly remove all (or just targeted) wireless configurations</p>
                                         </th>
 <td>
   <br>
