@@ -23,7 +23,7 @@
                                         </th>
 <td>
   <br>
-<p><a href="https://chrisjbawden.github.io/scripts-programs/Windows/shortcut_builder.bat">DOWNLOAD</a></p>
+<p><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-shortcut-builder.bat/shortcut-builder.bat">DOWNLOAD</a></p>
 </td>
 </tr>
 <tr>
