@@ -50,5 +50,6 @@
 <div align=center ">
    ----- TERMS -----
   </br>
+                   <br/>
    The maker of these wares can't be held liable in any way for any reason.
 </div>
