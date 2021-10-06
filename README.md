@@ -34,7 +34,7 @@
   </td>
   <td>
     <br>
-    <p align="center"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0/md5-checker.bat" target="blank">DOWNLOAD</a></p>
+    <p align="center"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-md5-checker.bat/md5-checker.bat" target="blank">DOWNLOAD</a></p>
   </td>
 </tr>
 <tr>
