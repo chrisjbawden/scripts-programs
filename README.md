@@ -28,9 +28,9 @@
 </tr>
 <tr>
   <td>
-   <h4>MD5 Checker</h4>
-     <p>A simple, automated batch script for checking the MD5 hash of a file</p>
-    <p> It will also show you the history of the file if you have checked it before </p>
+   <h4>md5-checker.bat</h4>
+     <p>A simple, automated batch script for checking the MD5 hash of a file<br/>
+     It will also show you the history of the file if you have checked it before </p>
   </td>
   <td>
     <br>
