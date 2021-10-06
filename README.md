@@ -12,7 +12,7 @@
   <td>
 </br>
 </br>
-<p style="text-align:right;"><a href="https://chrisjbawden.github.io/scripts-programs/Windows/empty_print_queue.bat">DOWNLOAD</a></p>
+<p style="text-align:right;"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-empty-print-queue.bat/empty-print-queue.bat">DOWNLOAD</a></p>
 </br>
 </td>
 </tr>
