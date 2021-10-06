@@ -28,12 +28,13 @@
 </tr>
 <tr>
   <td>
-   <h4>PDF Merger.exe</h4>
-     <p>A simple, portal PDF merger.</p>
+   <h4>MD5 Checker</h4>
+     <p>A simple, automated batch script for checking the MD5 hash of a file</p>
+    <p> It will also show you the history of the file if you have checked it before </p>
   </td>
   <td>
     <br>
-    <p align="center"><a href="https://github.com/chrisjbawden/pdfmerger" target="blank">LINK</a></p>
+    <p align="center"><a href="https://chrisjbawden.github.io/scripts-programs/Windows/(B)%20md5-checker/md5-checker.bat" target="blank">DOWNLOAD</a></p>
   </td>
 </tr>
 </table>
