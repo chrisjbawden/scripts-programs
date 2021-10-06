@@ -44,7 +44,7 @@
                                         </th>
 <td>
   <br>
-<p><a href="https://chrisjbawden.github.io/scripts-programs/Windows/(B)%20wireless-scrubber/wireless-scrubber.bat">DOWNLOAD</a></p>
+<p><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-wireless-scrubber.bat/wireless-scrubber.bat">DOWNLOAD</a></p>
 </td>
 </tr>
 </table>
