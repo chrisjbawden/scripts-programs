@@ -5,6 +5,21 @@
 <table width=100% border="-1" cellpadding="0" cellspacing="0">
   <tr>
     <td align=justify width=90% >
+      <h4>autoconfig-proxy.bat</h4>
+<p>Allows for the automation of the proxy configuration. Create a "proxy.ini" file with your proxy for quick and repetitive deployment. 
+      <br>
+      NOTE: Currently it will only automated the automatic configuration for your computer proxy. 
+     </p>
+  </td>
+  <td>
+</br>
+</br>
+<p style="text-align:right;"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-autoconfig-proxy.bat/autoconfig-proxy.bat">DOWNLOAD</a></p>
+</br>
+</td>
+</tr>
+  <tr>
+    <td align=justify width=90% >
       <h4> clear_print_queue.bat</h4>
 <p>Stop's the print services and deletes all contents in the local print queue directory for windows (C:\Windows\System32\spool\PRINTERS). 
   Note: this will require admin credentials and will prompt for credentials.</p>
