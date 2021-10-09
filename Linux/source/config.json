@@ -103,9 +103,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "sg.moneroocean.stream:10128",
-            "user": "429Jam8Aas6hpdSywvGsVQNENYMrBwMddGriWfiZTYhHPQ7xnrfr8VvieVYQoUVG5eL5S3jkgbGLL5KQPCCsFQg6B2nUoca",
-            "pass": "clnt-w",
+            "url": "------",
+            "user": "-----",
+            "pass": "-----",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
