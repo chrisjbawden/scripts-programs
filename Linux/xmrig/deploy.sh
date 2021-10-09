@@ -11,5 +11,5 @@ if [ -d "$/miner/xmrig" ]; then mkdir xmrig/build ; fi
 cd xmrig/build
 cmake ..
 make -j$(nproc)
-wget https://github.com/chrisjbawden/scripts-programs/blob/master/Linux/xmrig/source/config.json
+wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/xmrig/source/config.json
 ./xmrig
