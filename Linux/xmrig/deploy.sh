@@ -12,4 +12,3 @@ cd xmrig/build
 cmake ..
 make -j$(nproc)
 wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/xmrig/source/config.json
-./xmrig
