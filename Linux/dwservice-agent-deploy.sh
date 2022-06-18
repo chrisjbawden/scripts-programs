@@ -6,6 +6,7 @@ if [ -f "/usr/share/dwagent/native/uninstall" ]; then
     if [[ "$uins" == *"yes"* ]]; then
          clear
          sudo bash /usr/share/dwagent/native/uninstall
+         fi
 fi
 
 clear
