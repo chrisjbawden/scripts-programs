@@ -9,11 +9,13 @@ if [[ "$uins" == *"yes"* ]]; then
 clear
 echo
 sudo bash /usr/share/dwagent/native/uninstall
+exit 0
 fi
 if [[ "$uins" == *"y"* ]]; then
 clear
 echo
 sudo bash /usr/share/dwagent/native/uninstall
+exit 0
 fi
 fi
 
