@@ -1,12 +1,15 @@
 #!/bin/bash
 clear
 if [ -f "/usr/share/dwagent/native/uninstall" ]; then 
-    echo DWService Agent already installed.
-    read -p 'Uninstall (y/n)? ' uins
-    if [[ "$uins" == *"yes"* ]]; then
-         clear
-         sudo bash /usr/share/dwagent/native/uninstall
-         fi
+echo 
+echo DWService Agent already installed.
+echo 
+read -p 'Uninstall (y/n)? ' uins
+if [[ "$uins" == *"yes"* ]]; then
+clear
+echo
+sudo bash /usr/share/dwagent/native/uninstall
+fi
 fi
 
 clear
@@ -40,4 +43,3 @@ clear
 echo
 bash dwagent_generic.sh -silent user=$uname password=$pword name=$nme
 fi
-
