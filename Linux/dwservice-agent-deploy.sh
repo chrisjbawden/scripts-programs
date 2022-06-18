@@ -10,6 +10,11 @@ clear
 echo
 sudo bash /usr/share/dwagent/native/uninstall
 fi
+if [[ "$uins" == *"y"* ]]; then
+clear
+echo
+sudo bash /usr/share/dwagent/native/uninstall
+fi
 fi
 
 clear
