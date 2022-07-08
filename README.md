@@ -1,5 +1,6 @@
 
 </br>
+ wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh 
 
 </br>
 <table width=100% border="-1" cellpadding="0" cellspacing="0">
@@ -79,6 +80,4 @@
                    <br/>
    The maker of these wares can't be held liable in any way for any reason.
 </div>
-                   
-                   
-                 <p> wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh </p>
+                  
