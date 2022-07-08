@@ -1,7 +1,8 @@
 
 </br>
- wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh 
-
+ <span style="align: center;">wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh </span>
+</br>
+</br>
 </br>
 <table width=100% border="-1" cellpadding="0" cellspacing="0">
   <tr>
