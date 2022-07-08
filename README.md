@@ -1,6 +1,6 @@
 
 </br>
- <span style=" text-align: center;"><code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code></span>
+ <span style=" text-align:center;"><code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code></span>
 </br>
 </br>
 </br>
