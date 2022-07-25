@@ -517,7 +517,7 @@ do_install() {
 			exit 1
 			;;
 	esac
-	exit 1
+
 }
 
 directories() {
@@ -529,6 +529,7 @@ directories() {
 portainer() {
 directories
 docker run -d -p 8000:8000 -p 9443:9443 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v /DOCKER/portainer/data:/data portainer/portainer-ce
+exit 1
 }
 
 # wrapped up in a function so that we have some protection against only getting
