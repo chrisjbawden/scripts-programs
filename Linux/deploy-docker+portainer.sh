@@ -425,7 +425,7 @@ do_install() {
 				fi
 			)
 			echo_docker_as_nonroot
-			exit 0
+			return
 			;;
 		centos|fedora|rhel)
 			yum_repo="$DOWNLOAD_URL/linux/$lsb_dist/$REPO_FILE"
@@ -499,7 +499,7 @@ do_install() {
 				fi
 			)
 			echo_docker_as_nonroot
-			exit 0
+			return
 			;;
 		*)
 			if [ -z "$lsb_dist" ]; then
@@ -524,17 +524,18 @@ directories() {
    mkdir /DOCKER
    mkdir /DOCKER/portainer
    mkdir /DOCKER/portainer/data
+   return
 }
 
 portainer() {
 directories
 docker run -d -p 8000:8000 -p 9443:9443 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v /DOCKER/portainer/data:/data portainer/portainer-ce
-exit 1
+return
 }
 
 # wrapped up in a function so that we have some protection against only getting
 # half the file during "curl | sh"
 do_install
 portainer
-
+docker ps
 
