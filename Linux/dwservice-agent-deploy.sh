@@ -8,14 +8,14 @@ read -p 'Uninstall (y/n)? ' uins
 if [[ "$uins" == *"yes"* ]]; then
 clear
 echo
-sudo bash /usr/share/dwagent/native/uninstall -y
+sudo bash /usr/share/dwagent/native/uninstall -1
 ./usr/share/dwagent/native/dwagsvc start
 exit 0
 fi
 if [[ "$uins" == *"y"* ]]; then
 clear
 echo
-sudo bash /usr/share/dwagent/native/uninstall -y
+sudo bash /usr/share/dwagent/native/uninstall -1
 exit 0
 fi
 fi
