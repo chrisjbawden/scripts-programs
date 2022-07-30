@@ -50,4 +50,5 @@ read -p 'Enter name of agent: ' nme
 clear
 echo
 bash dwagent_generic.sh -silent user=$uname password=$pword name=$nme
+rm dwa*
 fi
