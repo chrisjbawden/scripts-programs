@@ -16,6 +16,7 @@ if [[ "$uins" == *"y"* ]]; then
 clear
 echo
 sudo bash /usr/share/dwagent/native/uninstall -1
+./usr/share/dwagent/native/dwagsvc start
 exit 0
 fi
 fi
