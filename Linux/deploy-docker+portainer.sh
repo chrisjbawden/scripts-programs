@@ -524,6 +524,7 @@ directories() {
    mkdir /DOCKER
    mkdir /DOCKER/portainer
    mkdir /DOCKER/portainer/data
+   exit 1
 }
 
 portainer() {
