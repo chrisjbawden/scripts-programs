@@ -23,9 +23,9 @@ fi
 clear
 sudo apt update
 clear
-apt install python3.8
+apt install python3.8 -y
 clear
-apt install wget
+apt install wget -y
 wget
 if [ -f "dwagent_generic.sh" ]; then 
 clear
