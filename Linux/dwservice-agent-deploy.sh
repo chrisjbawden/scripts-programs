@@ -51,6 +51,6 @@ clear
 echo
 bash dwagent_generic.sh -silent user=$uname password=$pword name=$nme
 rm dwa*
-crontab -l | { cat; echo "@reboot ./usr/share/dwagent/native/dwagsvc start"; } | crontab -
+crontab -l | { cat; echo "@reboot sleep 60; ./usr/share/dwagent/native/dwagsvc start"; } | crontab -
 
 fi
