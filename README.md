@@ -3,9 +3,8 @@
 <table width=100% cellpadding="0" cellspacing="0" style="border: none;">
   <tr>
     <td align=justify width=90% >
-     <span> <strong>DWService Agent deployment script - </strong></span>
+     <h4>DWService Agent deployment script - </h4>
 </br>
-<br>
  <span style="text-align:center;"><p><code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code></p></span>
      </p>
   </td>
@@ -16,7 +15,7 @@
 </br>
 </td>
 </tr>
-
+</table>
 </br>
 </br>
 <hr>
