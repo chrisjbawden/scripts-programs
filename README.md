@@ -2,7 +2,7 @@
 </br>
 <table width=100% cellpadding="0" cellspacing="0" style="border: none;">
   <tr>
-    <td align=justify width=90% >
+    <td align=justify width=100% >
      <h4>DWService Agent deployment script - </h4>
 </br>
  <span style="text-align:center;"><p><code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code></p></span>
