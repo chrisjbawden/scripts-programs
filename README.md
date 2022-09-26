@@ -1,9 +1,22 @@
 
 </br>
-<span> <strong>DWService Agent deployment script - </strong></span>
+<table width=100% cellpadding="0" cellspacing="0" style="border: none;">
+  <tr>
+    <td align=justify width=90% >
+     <span> <strong>DWService Agent deployment script - </strong></span>
 </br>
 <br>
  <span style="text-align:center;"><p><code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code></p></span>
+     </p>
+  </td>
+  <td>
+</br>
+</br>
+<p style="text-align:right;"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-autoconfig-proxy.bat/autoconfig-proxy.bat">DOWNLOAD</a></p>
+</br>
+</td>
+</tr>
+
 </br>
 </br>
 <hr>
