@@ -8,7 +8,7 @@
 </br>
 <hr>
 </br>
-<table width=100% cellpadding="0" cellspacing="0" style="border: none !important;">
+<table width=100% cellpadding="0" cellspacing="0" style="border: none;">
   <tr>
     <td align=justify width=90% >
       <h4>autoconfig-proxy.bat</h4>
