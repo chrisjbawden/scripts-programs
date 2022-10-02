@@ -2,7 +2,7 @@
   <p align=center>---- Linux -----</p>
 
 </br>
-<table width=100% cellpadding="0" cellspacing="0" style="border: none;">
+<table width=100% cellpadding="0" cellspacing="0">
     <tr align=justify border=1 style="width: 100%;">
      <h4>dwservice agent deployment .sh </h4>
 </br>
