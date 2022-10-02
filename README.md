@@ -7,7 +7,6 @@
 </br>
  <span style="text-align:center;"><p><code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code></p></span>
      </p>
-  </td>
 </tr>
 </table>
 </br>
