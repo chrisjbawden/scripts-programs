@@ -14,7 +14,7 @@
 </br>
 <hr>
 <details>
-  <summary title="click to expand" style="padding-left:40%;">---- Windows -----</summary>
+  <summary title="click to expand" style="margin-left:40%;">---- Windows -----</summary>
 
 </br>
 <table width=100% cellpadding="0" cellspacing="0" style="border: none;">
