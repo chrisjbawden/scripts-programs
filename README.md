@@ -2,8 +2,8 @@
   <p align=center>---- Linux -----</p>
 
 </br>
-<table width=100% cellpadding="0" cellspacing="0">
-    <tr align=justify border=1 style="width: 100%;">
+<table width=100% cellpadding="0" cellspacing="0" border="1">
+    <tr align=justify tyle="width: 100%;">
      <h4>dwservice agent deployment .sh </h4>
 </br>
  <span style="text-align:center;"><p><code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code></p></span>
@@ -14,7 +14,7 @@
 </br>
 <hr>
 <details>
-  <summary><span title="click to expand" style="width: 100%; margin-left: 40%;">---- Windows -----</span></summary>
+  <summary><span title="click to expand" style="width: 100%; margin-left: 200px;">---- Windows -----</span></summary>
 
 </br>
 <table width=100% cellpadding="0" cellspacing="0" style="border: none;">
