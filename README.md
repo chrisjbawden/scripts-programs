@@ -3,11 +3,13 @@
 
 </br>
 <table width=100% cellpadding="0" cellspacing="0">
-    <tr align=justify tyle="width: 100%; border: 1px solid;">
+    <tr align=justify tyle="width: 100%;">
+      <span style="border: 1px solid;>
      <h4>dwservice agent deployment .sh </h4>
 </br>
  <span style="text-align:center;"><p><code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code></p></span>
      </p>
+                                 </span>
      </tr>
 </table>
 </br>
