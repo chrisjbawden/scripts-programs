@@ -13,7 +13,8 @@
 </br>
 </br>
 <hr>
-  <p align=center>---- Windows -----</p>
+<details>
+  <summary style="align:center;">---- Windows -----</summary>
 
 </br>
 <table width=100% cellpadding="0" cellspacing="0" style="border: none;">
@@ -77,7 +78,7 @@
 </td>
 </tr>
 </table>
-
+</details>
 <hr>
 <div align=left>
   <p align=center>---- FAQ -----</p>
