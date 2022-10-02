@@ -3,12 +3,12 @@
 
 </br>
 <table width=100% cellpadding="0" cellspacing="0" style="border: none;">
-    <th align=justify style="width: 100%;">
+    <tr align=justify border=1 style="width: 100%;">
      <h4>dwservice agent deployment .sh </h4>
 </br>
  <span style="text-align:center;"><p><code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code></p></span>
      </p>
-     </th>
+     </tr>
 </table>
 </br>
 </br>
@@ -23,7 +23,7 @@
       <h4>autoconfig-proxy.bat</h4>
 <p>Allows for the automation of the proxy configuration. Create a "proxy.ini" file with your proxy for quick and repetitive deployment. 
       <br>
-      NOTE: Currently it will only automated the automatic configuration for your computer proxy. 
+      NOTE: Will only automate configuration to an automatic configurator for your proxy. 
      </p>
   </td>
   <td>
