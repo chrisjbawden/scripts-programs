@@ -79,7 +79,7 @@
 <hr>
 <div align=left>
   <p align=center>---- FAQ -----</p>
-  <h4>Why are they batch(.bat) files?</h4>
+  <h4>Why are they .bat/.sh files?</h4>
   Transparency, flexibility, adaptability - take your pick
 
 </div>
