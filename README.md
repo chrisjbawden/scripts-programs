@@ -1,4 +1,6 @@
 
+  <p align=center>---- Linux -----</p>
+
 </br>
 <table width=100% cellpadding="0" cellspacing="0" style="border: none;">
   <tr align=justify style="width=100%; outline: thin solid">
@@ -11,6 +13,8 @@
 </br>
 </br>
 <hr>
+  <p align=center>---- Windows -----</p>
+
 </br>
 <table width=100% cellpadding="0" cellspacing="0" style="border: none;">
   <tr>
