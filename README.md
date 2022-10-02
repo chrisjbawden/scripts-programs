@@ -6,7 +6,7 @@
     <td align=justify tyle="width: 100%;">
      <h4>dwservice agent deployment .sh </h4>
 </br>
- <span style="text-align:center;"><p><code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code></p></span>
+ <span style="text-align:center;"><p style="float: right;"><code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code></p></span>
      </td>
 </table>
 </br>
