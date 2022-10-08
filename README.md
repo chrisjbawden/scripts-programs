@@ -4,7 +4,6 @@
 </br>
     <span align=justify tyle="width: 100%;">
      <h4>dwservice agent deployment .sh </h4>
-</br>
  <span style="text-align:center;"><p style="display: block;"><code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code></p></span>
 </span>
 </br>
@@ -12,9 +11,7 @@
 <hr>
 <details open>
   <summary style="display: inline;">
-      <span style="width: 30%;">
-      <span title="click to expand" style="width: 100%;" >---- Windows -----</span>
-      </span>
+      <span title="click to expand" style="width: 100%; padding-left: 1000px;" >---- Windows -----</span>
     </summary>
 </br>
 <table width=100% cellpadding="0" cellspacing="0" style="border: none;">
