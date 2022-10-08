@@ -2,13 +2,11 @@
 <p align=center>---- Linux -----</p>
 
 </br>
-<table width=100% cellpadding="0" cellspacing="0">
-    <td align=justify tyle="width: 100%;">
+    <span align=justify tyle="width: 100%;">
      <h4>dwservice agent deployment .sh </h4>
 </br>
  <span style="text-align:center;"><p style="display: block;"><code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code></p></span>
-     </td>
-</table>
+</span>
 </br>
 </br>
 <hr>
