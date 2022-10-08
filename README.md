@@ -15,8 +15,8 @@
     </summary>
 </br>
 
-    <span align=justify>
-      <h4>autoconfig-proxy.bat</h4>
+<span align=justify>
+<h4>autoconfig-proxy.bat</h4>
 <p>Allows for the automation of the proxy configuration. Create a "proxy.ini" file with your proxy for quick and repetitive deployment. 
       <br>
       NOTE: Will only automate configuration to an automatic configurator for your proxy. 
