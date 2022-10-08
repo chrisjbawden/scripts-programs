@@ -21,7 +21,7 @@
 <h4>autoconfig-proxy.bat</h4>
 <p>Allows for the automation of the proxy configuration. Create a "proxy.ini" file with your proxy for quick and repetitive deployment. 
       <br>
-      NOTE: Will only automate configuration to an automatic configurator for your proxy. 
+    <strong>NOTE:</strong> Will only set an automatic configuration file for your proxy. 
      </p>
 <p style="text-align:right;" align=right><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-autoconfig-proxy.bat/autoconfig-proxy.bat">DOWNLOAD</a></p>
 </br>
