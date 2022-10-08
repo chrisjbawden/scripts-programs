@@ -13,7 +13,7 @@
 </br>
 <hr>
 <details open>
-    <span style="text-align: center;">
+    <span style="align: right;">
   <summary ><span title="click to expand" style="width: 100%; margin-left: 200px;>---- Windows -----</span></summary>
     </span>
 </br>
