@@ -7,16 +7,18 @@ cls
 set fil=
 set has=
 echo.
-echo Drag your file below and press enter
+echo.             Drag your file below and press enter"
 echo.
-set /p fil="|      " 
-if "%fil:"=%" == "history" goto history
-if "%fil:"=%" == "" goto start
+set /p fil="--------   "
+echo %fil%
+IF "%fil:"=%"=="history" (goto history)
+IF "%fil:"=%"=="" (goto start)
+cls
 echo.
 echo Checking ....
 certutil -hashfile "%fil:"=%" MD5 | find /V "CertUtil:" | find  /v "MD5 hash of" >%temp%\36472
 set /p has=<%temp%\36472
-if  "%has%" == "" cls && echo. && echo. && echo        Error ! && timeout /t 5 >nul && del %temp%\36472 && goto start
+if  "%has%"=="" (cls && echo. && echo. && echo        Error ! && timeout /t 5 >nul && del %temp%\36472 && goto start)
 del %temp%\36472
 echo %fil%       %has% >> %temp%\md5-checker.log
 cls
@@ -27,6 +29,7 @@ Echo Filename:     %fil%
 echo.
 echo MD5 Hash:     %has%
 echo.
+pause
 echo.
 echo.
 echo          History:
