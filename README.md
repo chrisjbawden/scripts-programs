@@ -13,7 +13,7 @@
 </br>
 <hr>
 <details open>
-  <summary style="display: block;" ><span title="click to expand" style="width: 100%; margin-left: 200px;">---- Windows -----</span></summary>
+  <summary><span title="click to expand" style="width: 100%; margin-left: 200px;"> <h3>---- Windows -----</h3></span></summary>
 
 </br>
 <table width=100% cellpadding="0" cellspacing="0" style="border: none;">
