@@ -1,5 +1,9 @@
-
-  <p align=center>---- Linux -----</p>
+<style>
+  summary {
+  display: none;
+  }
+  </style>
+<p align=center>---- Linux -----</p>
 
 </br>
 <table width=100% cellpadding="0" cellspacing="0">
