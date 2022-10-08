@@ -22,37 +22,32 @@
       <br>
       NOTE: Will only automate configuration to an automatic configurator for your proxy. 
      </p>
-</br>
-</br>
 <p style="text-align:right;" align=right><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-autoconfig-proxy.bat/autoconfig-proxy.bat">DOWNLOAD</a></p>
 </br>
     <span align=justify>
       <h4> clear_print_queue.bat</h4>
 <p>Stop's the print services and deletes all contents in the local print queue directory for windows (C:\Windows\System32\spool\PRINTERS). 
   Note: this will require admin credentials and will prompt for credentials.</p>
-</br>
-</br>
-<p style="text-align:right;"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-empty-print-queue.bat/empty-print-queue.bat">DOWNLOAD</a></p>
+<p align="right"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-empty-print-queue.bat/empty-print-queue.bat">DOWNLOAD</a></p>
 </br>
 
 <h4>shortcut_builder.bat</h4>
 <p>Allow's you to create shortucts to URL's of your choice with a predefined browser of your choice. ie; opening [website URL] with Firefox when the default browser on the computer is Chrome.</p>
 
-  <br>
+
 <p align="right"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-shortcut-builder.bat/shortcut-builder.bat">DOWNLOAD</a></p>
 
    <h4>md5-checker.bat</h4>
      <p>A simple, automated batch script for checking the MD5 hash of a file<br/>
      It will also show you the history of the file if you have checked it before </p>
 
-<br>
+
 <p align="right"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-md5-checker.bat/md5-checker.bat" target="blank">DOWNLOAD</a></p>
 
 <td align=justify width=90%>
 <h4>wireless-scrubber.bat</h4>
 <p>Allow's you to quickly remove all (or just targeted) wireless configurations</p>
 
-<br>
 <p align="right"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-wireless-scrubber.bat/wireless-scrubber.bat">DOWNLOAD</a></p>
 
 </span>
