@@ -52,8 +52,8 @@
 <h4>wireless-scrubber.bat</h4>
 <p>Allow's you to quickly remove all (or just targeted) wireless configurations</p>
 
-  <br>
-<p><a align="right" href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-wireless-scrubber.bat/wireless-scrubber.bat">DOWNLOAD</a></p>
+<br>
+<p align="right"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-wireless-scrubber.bat/wireless-scrubber.bat">DOWNLOAD</a></p>
 
 </span>
 </details>
