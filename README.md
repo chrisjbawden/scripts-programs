@@ -23,9 +23,9 @@
      </p>
 </br>
 </br>
-<p style="text-align:right;"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-autoconfig-proxy.bat/autoconfig-proxy.bat">DOWNLOAD</a></p>
+<p style="text-align:right;" align=right><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-autoconfig-proxy.bat/autoconfig-proxy.bat">DOWNLOAD</a></p>
 </br>
-    <td align=justify width=90% >
+    <span align=justify>
       <h4> clear_print_queue.bat</h4>
 <p>Stop's the print services and deletes all contents in the local print queue directory for windows (C:\Windows\System32\spool\PRINTERS). 
   Note: this will require admin credentials and will prompt for credentials.</p>
