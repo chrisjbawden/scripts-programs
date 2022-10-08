@@ -10,11 +10,11 @@ echo.
 echo Drag your file below and press enter
 echo.
 set /p fil="|      " 
-if "%fil%" == "history" goto history
-if "%fil%" == "" goto start
+if "%fil:"=%" == "history" goto history
+if "%fil:"=%" == "" goto start
 echo.
 echo Checking ....
-certutil -hashfile "%fil%" MD5 | find /V "CertUtil:" | find  /v "MD5 hash of" >%temp%\36472
+certutil -hashfile "%fil:"=%" MD5 | find /V "CertUtil:" | find  /v "MD5 hash of" >%temp%\36472
 set /p has=<%temp%\36472
 if  "%has%" == "" cls && echo. && echo. && echo        Error ! && timeout /t 5 >nul && del %temp%\36472 && goto start
 del %temp%\36472
