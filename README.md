@@ -39,14 +39,14 @@
 <p>Allow's you to create shortucts to URL's of your choice with a predefined browser of your choice. ie; opening [website URL] with Firefox when the default browser on the computer is Chrome.</p>
 
   <br>
-<p><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-shortcut-builder.bat/shortcut-builder.bat">DOWNLOAD</a></p>
+<p align="right"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-shortcut-builder.bat/shortcut-builder.bat">DOWNLOAD</a></p>
 
    <h4>md5-checker.bat</h4>
      <p>A simple, automated batch script for checking the MD5 hash of a file<br/>
      It will also show you the history of the file if you have checked it before </p>
 
-    <br>
-    <p align="right"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-md5-checker.bat/md5-checker.bat" target="blank">DOWNLOAD</a></p>
+<br>
+<p align="right"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-md5-checker.bat/md5-checker.bat" target="blank">DOWNLOAD</a></p>
 
 <td align=justify width=90%>
 <h4>wireless-scrubber.bat</h4>
