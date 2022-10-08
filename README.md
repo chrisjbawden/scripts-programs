@@ -46,14 +46,14 @@
      It will also show you the history of the file if you have checked it before </p>
 
     <br>
-    <p align="center"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-md5-checker.bat/md5-checker.bat" target="blank">DOWNLOAD</a></p>
+    <p align="right"><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-md5-checker.bat/md5-checker.bat" target="blank">DOWNLOAD</a></p>
 
 <td align=justify width=90%>
 <h4>wireless-scrubber.bat</h4>
 <p>Allow's you to quickly remove all (or just targeted) wireless configurations</p>
 
   <br>
-<p><a href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-wireless-scrubber.bat/wireless-scrubber.bat">DOWNLOAD</a></p>
+<p><a align="right" href="https://github.com/chrisjbawden/scripts-programs/releases/download/v1.0-wireless-scrubber.bat/wireless-scrubber.bat">DOWNLOAD</a></p>
 
 </span>
 </details>
