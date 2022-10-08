@@ -11,9 +11,9 @@
 </br>
 </br>
 <hr>
-<details open>
+<details>
   <summary style="display: inline;">
-      <span title="click to expand" style="width: 100%; padding-left: 1000px;" >---- Windows -----</span>
+      <span title="click to expand" style="width: 100%;" align="center">---- Windows -----</span>
     </summary>
 </br>
 
