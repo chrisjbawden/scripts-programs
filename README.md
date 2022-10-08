@@ -14,9 +14,9 @@
 <hr>
 <details open>
   <summary style="display: inline;">
-      <p align=center>
+      <div align=center>
       <span title="click to expand" style="width: 100%;" >---- Windows -----</span>
-      </p>
+      </div>
     </summary>
 </br>
 <table width=100% cellpadding="0" cellspacing="0" style="border: none;">
