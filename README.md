@@ -13,8 +13,9 @@
 </br>
 <hr>
 <details open>
+    <span style="align: center;">
   <summary style="list-style: none; display: block;"><span title="click to expand" style="width: 100%; margin-left: 200px; align: center;">---- Windows -----</span></summary>
-
+    </span>
 </br>
 <table width=100% cellpadding="0" cellspacing="0" style="border: none;">
   <tr>
