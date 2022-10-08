@@ -4,7 +4,7 @@
 </br>
     <span align=justify tyle="width: 100%;">
      <h4>dwservice agent deployment .sh </h4>
- wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code>
+ <code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code>
 </span>
 </br>
 </br>
