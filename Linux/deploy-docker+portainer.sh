@@ -521,15 +521,15 @@ do_install() {
 }
 
 directories() {
-   mkdir /DOCKER
-   mkdir /DOCKER/portainer
-   mkdir /DOCKER/portainer/data
+   mkdir /docker
+   mkdir /docker/portainer
+   mkdir /docker/portainer/data
    return
 }
 
 portainer() {
 directories
-docker run -d -p 8000:8000 -p 9443:9443 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v /DOCKER/portainer/data:/data portainer/portainer-ce
+docker run -d -p 8000:8000 -p 9443:9443 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v /docker/portainer/data:/data portainer/portainer-ce
 return
 }
 
