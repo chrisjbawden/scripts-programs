@@ -10,4 +10,6 @@ sudo touch /etc/NetworkManager/conf.d/10-globally-managed-devices.conf
 #cat /etc/netplan/00-*.yaml
 sudo rm /etc/netplan/00-*.yaml
 
-sudo service network-manager restart
+echo ""
+echo ""
+echo "Please reboot to apply"
