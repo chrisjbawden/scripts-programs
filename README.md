@@ -5,7 +5,7 @@
     <span align=justify tyle="width: 100%;">
      <h4>dwservice agent deployment .sh </h4>
     <span align="right">
- <code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh</code>
+ <code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh | sudo sh dwservice-agent-deploy.sh</code>
         <br>
         <br>
         <code>curl -fsSL https://get.docker.com -o install-docker.sh | sudo sh install-docker.sh </code>
