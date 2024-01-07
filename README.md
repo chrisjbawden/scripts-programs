@@ -2,16 +2,19 @@
 <p align=center>---- Linux -----</p>
 
 </br>
-    <span align=justify tyle="width: 100%;">
-     <h4>dwservice agent deployment .sh </h4>
-    <span align="right">
+    <span style="width: 100%;">
+     <h4>dwservice agent deployment script </h4>
+    <div align=right>
  <code>wget https://raw.githubusercontent.com/chrisjbawden/scripts-programs/master/Linux/dwservice-agent-deploy.sh | sudo sh dwservice-agent-deploy.sh</code>
-        <br>
-        <br>
-        <code>curl -fsSL https://get.docker.com -o install-docker.sh | sudo sh install-docker.sh </code>
-</span>
+</div>
     </span>
 </br>
+<span style="width: 100%;">
+     <h4>docker quick deploy</h4>
+    <div align=right>
+        <code>curl -fsSL https://get.docker.com -o install-docker.sh | sudo sh install-docker.sh </code>
+</div>
+    </span>
 </br>
 <hr>
 <details>
