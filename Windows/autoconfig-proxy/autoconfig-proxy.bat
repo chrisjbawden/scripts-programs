@@ -45,8 +45,6 @@ echo.
 timeout/t 5 >nul
 exit
 
-http://wpad.health.qld.gov.au/wpad.dat
-
 
 :reg_build
 echo Windows Registry Editor Version 5.00 > %temp%\hhsjd.reg
@@ -82,4 +80,5 @@ timeout /t 5 >nul
 set /p proxy=<%~dp0\proxy.ini
 call :reg_build
 call :appl
+
 goto end
